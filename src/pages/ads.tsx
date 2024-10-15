@@ -95,7 +95,7 @@ export default function Ads() {
     // { bg: '', icon: MdBarChart, name: 'Ads actived', value: '7' },
     { bg: 'blue', icon: MdBarChart, name: 'Ads enabled', value: activeAds },
     { bg: 'blue', icon: MdBarChart, name: 'Ads disabled', value: inactiveAds },
-    { bg: 'white', icon: MdAttachMoney, name: 'Total ads sales', value: '19.354,00' },
+    { bg: 'white', icon: MdAttachMoney, name: 'Total ads sales', value: '19.350,00' },
   ];
 
   const openModalDeleteButton = (id: string) => {
